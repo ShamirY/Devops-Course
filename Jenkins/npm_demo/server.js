@@ -1,6 +1,6 @@
 var express = require('express');
 var app = express();
-var port = 3151;
+var port = 3010;
 var primes = require('./primes.js');
 var fs = require('fs');
 
